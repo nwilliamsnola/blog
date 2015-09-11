@@ -209,8 +209,11 @@ a {
 	#page_wrapper {
 		padding: 3em;
 		#profile_image {
-			width: 300px;
+			width: 400px;
 			float: left;
+			margin-bottom: 12em;
+			margin-top: 2em;
+			position: relative;
 			margin-right: 2em;
 			img {
 				width: 100%;
